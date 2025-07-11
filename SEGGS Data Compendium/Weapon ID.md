@@ -24,7 +24,7 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
   4.3 [Flame](#flame)<br/>
   4.4 [Energy-Based Stratagem](#energy-based-stratagem)<br/>
   4.5 [Corrosive](#corrosive)<br/>
-  4.6 [Melee](#melee)<br/>
+  4.6 [Melee Stratagem](#melee-stratagem)<br/>
 
 
 ## 1. Primary Weapon
@@ -153,7 +153,7 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 :- | :- 
 **TX-41 Sterilizer**<br/><img src="https://helldivers.wiki.gg/images/2/29/Sterilizer_Stratagem_Icon.png?5f6a3c" width="350"/><br/>**UID**: 9869105320050739364<br/>**Damage**: DamageInfoType_Spray_Chem_Gun<br/>**Gas**: DamageInfoType_DPS_Gas | 
 
-### Melee
+### Melee Stratagem
 |   |   |
 :- | :- 
 **CQC-1 One True Flag**<br/><img src="https://helldivers.wiki.gg/images/9/9f/CQC-1_One_True_Flag_Stratagem_Icon.png?2821bf" width="350"/><br/>**Damage**: DamageInfoType_StunLance | 
