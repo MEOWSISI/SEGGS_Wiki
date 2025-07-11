@@ -9,7 +9,7 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
   1.3 [Submachine Gun](#submachine-gun) <br/>
   1.4 [Shotgun](#shotgun) <br/>
   1.5 [Explosive](#explosive) <br/>
-  1.6 [Energy-Based](#energybased) <br/>
+  1.6 [Energy-Based](#energy-based) <br/>
   1.7 [Special](#special) <br/>
 2. Secondary Weapon<br/>
   2.1 [Pistol](#pistol)<br/>
@@ -22,7 +22,7 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
   4.1 [Live Ammunition](#live-ammunition)<br/>
   4.2 [Explosive](#explosive)<br/>
   4.3 [Flame](#flame)<br/>
-  4.4 [Energy-Based](#energybased)<br/>
+  4.4 [Energy-Based Stratagem](#energy-based-stratagem)<br/>
   4.5 [Corrosive](#corrosive)<br/>
   4.6 [Melee](#melee)<br/>
 
@@ -142,7 +142,7 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 :- | :- 
 **FLAM-40 Flamethrower**<br/><img src="https://helldivers.wiki.gg/images/7/75/Flamethrower_Stratagem_Icon.png?f36171" width="350"/><br/>**UID**: 4155583896232633279<br/>**Damage**: DamageInfoType_Projectile_Flamethrower<br/>**Projectile**: Flamethrowers use a separate Spray data<br/>**Burn Damage**: DamageInfoType_DPS_Fire | 
 
-### Energy-Based
+### Energy-Based Stratagem
 |   |   |
 :- | :- 
 **LAS-98 Laser Cannon**<br/><img src="https://helldivers.wiki.gg/images/c/c3/Laser_Cannon_Stratagem_Icon.png?95398f" width="350"/><br/>**UID**: 15369542005276747891<br/>**Damage**: DamageInfoType_DPS_BeamLarge<br/>**Beam**: 6 (BeamType_LaserCannon)| **LAS-99 Quasar Cannon**<br/><img src="https://helldivers.wiki.gg/images/8/87/Quasar_Cannon_Stratagem_Icon.png?3e527d" width="350"/><br/>**UID**: 3865797767236207742<br/>**Damage**: DamageInfoType_Projectile_Laser_Pulse<br/>**Projectile**: ProjectileType_Laser_Pulse<br/>**Explosion Damage**: DamageInfoType_Explosion_Laser_Pulse<br/>**Explosion Properties**: ExplosionType_Laser_Pulse
