@@ -3,7 +3,7 @@ This is the library of ID's for weapons.
 You can find UID, damage ID, projectile ID, explosion damage ID, and explosion ID. 
 
 ## Table of Contents
-1. Primary Weapon  
+1. [Primary Weapon](#1-primary-weapon)  
   1.1 [Assault Rifle](#assault-rifle) <br/>
   1.2 [Marksman Rifle](#marksman-rifle) <br/>
   1.3 [Submachine Gun](#submachine-gun) <br/>
@@ -11,14 +11,14 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
   1.5 [Explosive](#explosive) <br/>
   1.6 [Energy-Based](#energy-based) <br/>
   1.7 [Special](#special) <br/>
-2. Secondary Weapon<br/>
+2. [Secondary Weapon](#2-secondary-weapon)  
   2.1 [Pistol](#pistol)<br/>
   2.2 [Melee](#melee)<br/>
   2.3 [Special Secondary](#special-secondary)<br/>
-3. Throwable<br/>
+3. [Throwable](#3-throwable)  
   3.1 [Standard](#standard)<br/>
   3.2 [Special Throwable](#special-throwable)<br/>
-4. Stratagem Weapons<br/>
+4. [Stratagem Weapon](#4-stratagem-weapon)  
   4.1 [Live Ammunition](#live-ammunition)<br/>
   4.2 [Explosive](#explosive)<br/>
   4.3 [Flame](#flame)<br/>
@@ -119,7 +119,7 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 **G-142 Pyrotech**<br/><img src="https://helldivers.wiki.gg/images/9/9a/G-142_Pyrotech_Throwable_Weaponry.png?190648" width="350"/><br/>**Explosion Damage**: DamageInfoType_PyrotechGrenade<br/>**Explosion Properties**: ExplosionType_PyrotechGrenade<br/>**Burn Damage**: DamageInfoType_DPS_Fire | **G-109 Urchin**<br/><img src="https://helldivers.wiki.gg/images/2/28/G-109_Urchin_Throwable_Icon.png?e4ccd5" width="350"/><br/>**Explosion Damage**: DMG_TYPE_216<br/>**Explosion Properties**: EXPLOSION_TYPE_266
 
 
-## 4. Stratagem Weapons
+## 4. Stratagem Weapon
 
 ### Live Ammunition
 |   |   |
