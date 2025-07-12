@@ -3,7 +3,7 @@ This is the library of ID's for Eagle Air Supports.
 You can find UID, damage ID, projectile ID, explosion damage ID, and explosion ID.  
 
 ## Table of Contents  
-1. [Eagle Air Support](#1-eagle-air-support)  
+1. [Eagle Air Support](#eagle-air-support)  
   1.1 Eagle Strafing Run  
   1.2 Eagle Airstrike  
   1.3 Eagle Cluster Bomb  
