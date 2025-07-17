@@ -1,10 +1,11 @@
 # SEGGS_Wiki
 This is the library for the SE Guild of Galiant Soldiers.
-Here you can find a collection of scripts that can help you spread the SEGGS to our enemies!
+Here you can find a collection of scripts that rebalences and adds to your arsenal, helping you spread the SEGGS to our enemies!
 
 ## Repository structure
 
 * FAQ
+* Tutorials
 * Community Scripts
 
 ## Featured Community Scripts
