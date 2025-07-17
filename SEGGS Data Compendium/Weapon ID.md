@@ -23,8 +23,9 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
   4.2 [Explosive](#explosive)<br/>
   4.3 [Flame](#flame)<br/>
   4.4 [Energy-Based Stratagem](#energy-based-stratagem)<br/>
-  4.5 [Corrosive](#corrosive)<br/>
-  4.6 [Melee Stratagem](#melee-stratagem)<br/>
+  4.5 [Plasma Stratagem](#plasma-stratagem)<br/>
+  4.6 [Corrosive](#corrosive)<br/>
+  4.7 [Melee Stratagem](#melee-stratagem)<br/>
 
 
 ## 1. Primary Weapon
