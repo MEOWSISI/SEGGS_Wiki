@@ -153,8 +153,8 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 ### Plasma Stratagem
 |   |   |
 :- | :- 
-**PLAS-45 Epoch**<br/><img src="https://helldivers.wiki.gg/images/0/07/PLAS-45_Epoch_Stratagem_Icon.png?691ee9&format=original" width="350"/><br/>Data currently missing, will be updated when discovered<br/>**UID**:???<br/>**Damage**: ???<br/>**Projectile**:??? | 
-<!-- New Plasma stratagem tier added. Add id info when discovered and remove the comment, thanks! -Turbo -->
+**PLAS-45 Epoch**<br/><img src="https://helldivers.wiki.gg/images/0/07/PLAS-45_Epoch_Stratagem_Icon.png?691ee9&format=original" width="350"/><br/>Some data still missing;<br/>**UID**:16777584932715761236<br/>**Damage**: ???<br/>**Projectile**:??? | 
+<!-- Added UID -Turbo -->
 
 ### Corrosive
 |   |   |
