@@ -23,8 +23,9 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
   4.2 [Explosive](#explosive)<br/>
   4.3 [Flame](#flame)<br/>
   4.4 [Energy-Based Stratagem](#energy-based-stratagem)<br/>
-  4.5 [Corrosive](#corrosive)<br/>
-  4.6 [Melee Stratagem](#melee-stratagem)<br/>
+  4.5 [Plasma Stratagem](#plasma-stratagem)<br/>
+  4.6 [Corrosive](#corrosive)<br/>
+  4.7 [Melee Stratagem](#melee-stratagem)<br/>
 
 
 ## 1. Primary Weapon
@@ -75,7 +76,8 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 |   |   |
 :- | :- 
 **FLAM-66 Torcher**<br/><img src="https://helldivers.wiki.gg/images/9/93/FLAM-66_Torcher_Primary_Weaponry.png?e79e30" width="350"/><br/>**UID**: 5742363029208942635<br/>**Damage**: DamageInfoType_Projectile_Flamethrower_Ripley<br/>**Projectile**: Flamethrowers use a separate Spray data<br/>**Burn Damage**: DamageInfoType_DPS_Fire | **JAR-5 Dominator**<br/><img src="https://helldivers.wiki.gg/images/9/94/JAR-5_Dominator_Primary_Weaponry.png?e0239e" width="350"/><br/>**UID**: 9291384900638350902<br/>**Damage**: DamageInfoType_Projectile_Rocket_15x100mm_std<br/>**Projectile**: ProjectileType_Rocket_15x100mm_std
-
+**VG-70 Variable**<br/><img src="https://helldivers.wiki.gg/images/7/7f/VG-70_Variable_Primary_Weaponry.png?5448d7=&format=original" width="350"/><br/>Data currently missing, will be updated when discovered<br/>**UID**:???<br/>**Damage**: ???<br/>**Projectile**:??? 
+<!-- VG-70 Variable placeholder is here, needs its IDs, remove the comment after it's been added. Thank you!- Turbo-->
 
 ## 2. Secondary Weapon
 
@@ -148,6 +150,12 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 **LAS-98 Laser Cannon**<br/><img src="https://helldivers.wiki.gg/images/c/c3/Laser_Cannon_Stratagem_Icon.png?95398f" width="350"/><br/>**UID**: 15369542005276747891<br/>**Damage**: DamageInfoType_DPS_BeamLarge<br/>**Beam**: 6 (BeamType_LaserCannon)| **LAS-99 Quasar Cannon**<br/><img src="https://helldivers.wiki.gg/images/8/87/Quasar_Cannon_Stratagem_Icon.png?3e527d" width="350"/><br/>**UID**: 3865797767236207742<br/>**Damage**: DamageInfoType_Projectile_Laser_Pulse<br/>**Projectile**: ProjectileType_Laser_Pulse<br/>**Explosion Damage**: DamageInfoType_Explosion_Laser_Pulse<br/>**Explosion Properties**: ExplosionType_Laser_Pulse
 **ARC-3 Arc Thrower**<br/><img src="https://helldivers.wiki.gg/images/1/10/Arc_Thrower_Stratagem_Icon.png?63ff8b" width="350"/><br/>**UID**: 10871298989420119782<br/>**Damage**: DamageInfoType_Projectile_Arc_Thrower<br/>**Arc**: 0 (ArcType_ArcThrower) | 
 
+### Plasma Stratagem
+|   |   |
+:- | :- 
+**PLAS-45 Epoch**<br/><img src="https://helldivers.wiki.gg/images/0/07/PLAS-45_Epoch_Stratagem_Icon.png?691ee9&format=original" width="350"/><br/>Some data still missing;<br/>**UID**:16777584932715761236<br/>**Damage**: ???<br/>**Projectile**:??? | 
+<!-- Added UID -Turbo -->
+
 ### Corrosive
 |   |   |
 :- | :- 
@@ -157,7 +165,6 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 |   |   |
 :- | :- 
 **CQC-1 One True Flag**<br/><img src="https://helldivers.wiki.gg/images/9/9f/CQC-1_One_True_Flag_Stratagem_Icon.png?2821bf" width="350"/><br/>**Damage**: DamageInfoType_StunLance | 
-
 
 
 
