@@ -1,5 +1,5 @@
 # SEGGS HOW-TO
-## Weapon Function
+## Weapon Function - Fire Mode 
 *Original Author: xert*
 
 This is a guide on how to add and change weapon function - fire mode.
