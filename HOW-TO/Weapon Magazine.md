@@ -5,8 +5,8 @@
 This is a guide on how to change weapon magazine values including magazine size, total magazine capacity, starting magazine, and magazines refilled. 
 
 ## Category
-1. [Magazine.DATA](#1-magazine-data)  
-2. [Rounds.DATA](#2-rounds-data)  
+1. [Magazine.DATA](#1-magazinedata)  
+2. [Rounds.DATA](#2-roundsdata)  
 3. [Entity Delta](#3-entity-delta)
 4. [Comment](#4-comment)
 	
