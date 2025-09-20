@@ -21,8 +21,9 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 3. [Emplacements](#3-emplacements)  
   1.1 E/MG-101 HMG Emplacement  
   1.2 E/AT-12 Anti-Tank Emplacement  
-  1.3 E/GL-21 Grenadier Battlement
-4. [Relay](#4-relay)  
+  1.3 E/GL-21 Grenadier Battlement  
+  1.4 MS-11 Mini Silo  
+5. [Relay](#4-relay)  
   1.1 FX-12 Shield Generator Relay  
 
 ## 1. Sentries
@@ -55,6 +56,7 @@ You can find UID, damage ID, projectile ID, explosion damage ID, and explosion I
 | **E/MG-101 HMG Emplacement** | ![HMG Emplacement](https://helldivers.wiki.gg/images/0/03/HMG_Emplacement_Stratagem_Icon.png?5f9e66) | **UID**: `1051445694670701817`<br/>**Damage**: `DamageInfoType_Projectile_Rifle_12p5x100mm_fmj`<br/>**Projectile**: `ProjectileType_Rifle_12p5x100mm_fmj` |
 | **E/AT-12 Anti-Tank Emplacement** | ![Anti-Tank Emplacement](https://helldivers.wiki.gg/images/6/62/E_AT-12_Anti-Tank_Emplacement_Stratagem_Icon.png?3fbc70) | **UID**: `3103483601875813497`<br/>**Damage**: `DamageInfoType_Projectile_AT_Emplacement`<br/>**Projectile**: `ProjectileType_AT_Emplacement`<br/><br/>**Explosion Damage**: `DamageInfoType_Explosion_Projectile_Grenade_75mm_HEAT`<br/>**Explosion Properties**: `ExplosionType_AT_Emplacement` |
 | **E/GL-21 Grenadier Battlement** | ![Grenadier Battlement](https://helldivers.wiki.gg/images/3/3f/GL-21_Grenadier_Battlement_Stratagem_Icon.png?747ef0) | **UID**: `3003496806383724538`<br/>**Damage**: `DamageInfoType_Projectile_Grenade_40mm_HE`<br/>**Projectile**: `ProjectileType_Grenade_40mm_HE`<br/><br/>**Explosion Damage**: `DamageInfoType_Explosion_Projectile_Grenade_40mm_HE`<br/>**Explosion Properties**: `ExplosionType_Grenade_40mm_HE` |
+| **MS-11 Mini Silo** | ![MS-11 Mini Silo](https://helldivers.wiki.gg/images/MS-11_Stratagem_Icon.png?944c5f&20250916001728) | **UID**: `15986416455258940649`<br/>**Controller UID**: `18163938711866866090`<br/>**Damage**: `DamageInfoType_Projectile_Grenade_40mm_HE`<br/>**Projectile**: `ProjectileType_Grenade_40mm_HE`<br/>**Explosion Damage 1**: `DamageInfoType_Explosion_Projectile_MiniMissilesilo`<br/>**Explosion Properties 1**: `ExplosionType_Mini_Missile_Silo_Initial_Impact`<br/>**Explosion Damage 2**: `DamageInfoType_Explosion_Projectile_MiniMissilesilo`<br/>**Explosion Properties 2**: `ExplosionType_Mini_Missile_Silo`<br/>(Explosion 2 is main) |
 
 ## 4. Relay  
 
