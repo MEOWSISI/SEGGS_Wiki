@@ -45,7 +45,7 @@ You can find information for equipable backpacks and vehicles.
 ### Vehicles  
 |   |   |   |
 -- | -- | :-
-| **M-102 Fast Recon Vehicle** | ![Fast Recon Vehicle](https://helldivers.wiki.gg/images/0/00/M-102_Fast_Recon_Vehicle_Stratagem_Icon.png?8cb2ad) | **UID**: `14709257759554793401`<br/>**Machine Gun UID**: `2401215835282261016`<br/>**Machine Gun Damage**: `DamageInfoType_Projectile_Rifle_12p5x100mm_bchp` (HMG)<br/>**Machine Gun Projectile**: `ProjectileType_Rifle_12p5x100mm_bchp` (HMG) |
+| **M-102 Fast Recon Vehicle** | ![Fast Recon Vehicle](https://helldivers.wiki.gg/images/0/00/M-102_Fast_Recon_Vehicle_Stratagem_Icon.png?8cb2ad) | **UID**: `14709257759554793401`<br/>**Machine Gun UID**: `602390376167162446`<br/>**Machine Gun Damage**: `DamageInfoType_Projectile_Rifle_12p5x100mm_bchp` (HMG)<br/>**Machine Gun Projectile**: `ProjectileType_Rifle_12p5x100mm_bchp` (HMG) |
 
 
 
