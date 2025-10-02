@@ -24,7 +24,7 @@ You can find information for equipable backpacks and vehicles.
 |   |   |   |
 -- | -- | :-
 | **SH-32 Shield Generator Pack** | ![Shield Generator Pack](https://helldivers.wiki.gg/images/9/99/Shield_Generator_Pack_Stratagem_Icon.png?d35b0f) | **UID**: `1353568197974522460` |
-| **SH-51 Directional Shield** | ![Directional Shield](https://helldivers.wiki.gg/images/b/b7/SH-51_Directional_Shield_Stratagem_Icon.png?4e63ec) | **UID**: `11882632134944470026` |
+| **SH-51 Directional Shield** | ![Directional Shield](https://helldivers.wiki.gg/images/b/b7/SH-51_Directional_Shield_Stratagem_Icon.png?4e63ec) | **UID**: `13073848517301108907` |
 | **SH-20 Ballistic Shield Backpack** | ![Ballistic Shield Backpack](https://helldivers.wiki.gg/images/3/37/Ballistic_Shield_Backpack_Stratagem_Icon.png?ace094) | **UID**: `10844335154607830587` |
 
 ### Guard Dogs  
