@@ -31,7 +31,7 @@ You can find information for equipable backpacks and vehicles.
 |   |   |   |
 -- | -- | :-
 | **AX/AR-23 "Guard Dog"** | ![Guard Dog](https://helldivers.wiki.gg/images/7/73/Guard_Dog_Stratagem_Icon.png?61d1b4) | **Dog UID**: `11601043503813400874`<br/>**Weapon UID**: `11756121139324203897`<br/>**Damage**: `DamageInfoType_Projectile_Rifle_5p5x50mm_ap` (Liberator Penetrator)<br/>**Projectile**: `ProjectileType_Rifle_5p5x50mm_ap` (Liberator Penetrator) |
-| **AX/LAS-5 "Guard Dog" Rover** | ![Guard Dog Rover](https://helldivers.wiki.gg/images/6/6f/Guard_Dog_Rover_Stratagem_Icon.png?7ad22e) | **Dog UID**: `6624453650490018537`<br/>**Weapon UID**: `3199457897835937068` (Scythe)<br/>**Damage**: `DamageInfoType_DPS_BeamMedium` |
+| **AX/LAS-5 "Guard Dog" Rover** | ![Guard Dog Rover](https://helldivers.wiki.gg/images/6/6f/Guard_Dog_Rover_Stratagem_Icon.png?7ad22e) | **Dog UID**: `6624453650490018537`<br/>**Weapon UID**: `3199457897835937068` (Scythe)<br/>**Damage**: `DamageInfoType_DPS_BeamMediumDrone` |
 | **AX/TX-13 "Guard Dog" Dog Breath** | ![Dog Breath](https://helldivers.wiki.gg/images/2/20/Guard_Dog_Dog_Breath_Stratagem_Icon.png?9e6385) | **Dog UID**: `13383279112602229081`<br/>**Weapon UID**: `13198259103089806061`<br/>**Damage**: `DamageInfoType_Drone_Chem_Gun` |
 | **AX/ARC-3 "Guard Dog" K-9** | ![K-9](https://helldivers.wiki.gg/images/c/ca/AX_ARC-3_%22Guard_Dog%22_K-9_Stratagem_Icon.png?8ac008) | **Dog UID**: `14019044913798069754`<br/>**Weapon UID**: `11552626079949819071`<br/>**Damage**: `DamageInfoType_Projectile_Arc_Guarddog` |
 
